@@ -52,3 +52,4 @@ date,category,amount,payment_method,notes
 2025-08-01,Food,250,UPI,Lunch
 2025-08-02,Transport,100,Cash,Auto fare
 2025-08-03,Entertainment,500,Card,Movie night
+
