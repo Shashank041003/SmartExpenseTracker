@@ -1,4 +1,5 @@
 # 💼 Smart Expense Tracker
+![image alt](https://github.com/Shashank041003/SmartExpenseTracker/blob/main/Screenshot%202025-08-28%20104310.png?raw=true)
 
 The Smart Expense Tracker is a personal finance project built using Python and Power BI. It helps users record daily expenses, store them in a structured format, and visualize spending patterns through an interactive dashboard.
 
