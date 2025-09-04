@@ -33,7 +33,7 @@ The Smart Expense Tracker is a personal finance project built using Python and P
 | `expenses.csv`              | Raw data file                        |
 | `SmartExpenseDashboard.pbix`| Power BI dashboard                   |                |
 | `README.md`                 | Project documentation                |
-          |
+   `App.py`                   | App for this project
 
 ---
 
