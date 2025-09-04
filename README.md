@@ -21,6 +21,7 @@ The Smart Expense Tracker is a personal finance project built using Python and P
 - **Power BI**: For building interactive dashboards  
 - **GitHub**: For hosting and documentation  
 - **VS Code**: As the development environment
+- **Streamlit**: For App of smart expenses tracker
 
 ---
 
